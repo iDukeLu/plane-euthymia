@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplane_euthymia=self.webpackChunkplane_euthymia||[]).push([[6633],{4161:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/plane-euthymia/blog/tags/facebook","allTagsPath":"/plane-euthymia/blog/tags","count":1}')}}]);
